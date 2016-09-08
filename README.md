@@ -1,3 +1,3 @@
 # PythonStudy
 
-Python3学习过程记录
+It's the study process recording of Python 3
